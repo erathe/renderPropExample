@@ -1,0 +1,13 @@
+body {
+  width: 1040px;
+  margin: auto; 
+  background: url('https://www.usmagazine.com/wp-content/uploads/2018/02/elon-musk-falcon-heavy-tesla.jpg') no-repeat fixed;
+}
+
+.App {
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+}
